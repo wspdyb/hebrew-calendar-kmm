@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Primary Colors -->
+    <color name="primary">#1A3A52</color>           <!-- Deep Blue -->
+    <color name="primary_dark">#0F2538</color>      <!-- Darker Blue -->
+    <color name="primary_light">#284A6D</color>     <!-- Lighter Blue -->
+
+    <!-- Secondary Colors -->
+    <color name="secondary">#C65D3B</color>         <!-- Rust/Bronze -->
+    <color name="secondary_dark">#A64D2F</color>    <!-- Darker Rust -->
+    <color name="secondary_light">#D97550</color>   <!-- Lighter Rust -->
+
+    <!-- Accent -->
+    <color name="accent">#D4AF37</color>            <!-- Gold -->
+    <color name="accent_dark">#B8860B</color>       <!-- Dark Gold -->
+
+    <!-- Surface & Background -->
+    <color name="surface">#F5F5F5</color>           <!-- Light Gray -->
+    <color name="surface_dark">#EEEEEE</color>      <!-- Slightly Darker Gray -->
+    <color name="surface_variant">#E0E0E0</color>   <!-- More Contrast -->
+    <color name="background">#FFFFFF</color>       <!-- White -->
+
+    <!-- Text Colors -->
+    <color name="text_primary">#333333</color>      <!-- Dark -->
+    <color name="text_secondary">#666666</color>    <!-- Medium -->
+    <color name="text_tertiary">#999999</color>     <!-- Light -->
+    <color name="text_on_primary">#FFFFFF</color>   <!-- White on Dark -->
+
+    <!-- Dividers & Borders -->
+    <color name="divider">#CCCCCC</color>           <!-- Light Gray Line -->
+    <color name="border">#BBBBBB</color>            <!-- Medium Gray Line -->
+
+    <!-- Status Colors (minimal, professional) -->
+    <color name="success">#2E7D32</color>           <!-- Green -->
+    <color name="error">#C62828</color>             <!-- Red -->
+    <color name="warning">#F57C00</color>           <!-- Orange -->
+    <color name="info">#1565C0</color>              <!-- Blue -->
+
+    <!-- Semantic Colors -->
+    <color name="holiday_rosh_hashanah">#9B3C3C</color>     <!-- Deep Red -->
+    <color name="holiday_yom_kippur">#5C5C5C</color>        <!-- Gray -->
+    <color name="holiday_pesach">#2E7D32</color>            <!-- Green -->
+    <color name="holiday_shavuot">#D4AF37</color>           <!-- Gold -->
+    <color name="holiday_sukkot">#A64D2F</color>            <!-- Rust -->
+
+    <!-- Category Colors (for tracing) -->
+    <color name="category_molad">#1A3A52</color>        <!-- Talmud - Blue -->
+    <color name="category_algorithm">#2E7D32</color>    <!-- Algorithm - Green -->
+    <color name="category_codification">#C65D3B</color"><!-- Codification - Rust -->
+    <color name="category_derived">#9B3C3C</color>      <!-- Derived - Dark Red -->
+    <color name="category_observance">#F57C00</color>   <!-- Observance - Orange -->
+
+    <!-- Transparent Overlays -->
+    <color name="overlay_dark">#00000040</color>    <!-- 25% Black -->
+    <color name="overlay_light">#FFFFFF40</color>   <!-- 25% White -->
+
+</resources>

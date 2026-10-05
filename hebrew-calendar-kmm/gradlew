@@ -1,0 +1,3 @@
+#!/bin/bash
+# Gradle Wrapper for Hebrew Calendar Project
+exec java -classpath /usr/share/gradle/lib/* org.gradle.cli.Main "$@"
